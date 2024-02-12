@@ -1,13 +1,15 @@
-# OC Pace Setters Project
+# To Do Application
 
-This is a project that does full stack dev.
+This project is for track your to Do's
 
 ## Installation
 
 To use this project, follow these steps:
 
 1. Clone the repository.
-2. Install dependencies with `npm install`.
+2. Cd client
+3. Install dependencies with `npm install`.
+4. Npm run dev
 
 ## Usage
 
@@ -17,9 +19,9 @@ To run the project, use the following command:
 npm start
 ```
 
-## Project Structure
+## Project Structure (To be Updated)
 
-oc-pace-setters/
+To-Do-App/
 ├── client/
 │ ├── public/
 │ ├── src/
@@ -61,4 +63,5 @@ Library/tool 2
 ## License
 
 This project is licensed under the MIT License- see the [LICENSE](LICENSE) file for details.
+
 # To-Do-App

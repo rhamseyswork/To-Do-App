@@ -12,8 +12,8 @@
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "predeploy" : "npm run build",
+    "deploy" : "gh-pages -d build"
   },
   "repository": {
     "type": "git",
@@ -29,7 +29,7 @@
   "bugs": {
     "url": "https://github.com/rhamseyswork/To-Do-App/issues"
   },
-  "homepage": "https://github.com/rhamseyswork/To-Do-App#readme",
+  "homepage": "https://github.com/rhamseyswork/To-Do-App",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",

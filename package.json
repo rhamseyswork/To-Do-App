@@ -29,7 +29,7 @@
   "bugs": {
     "url": "https://github.com/rhamseyswork/To-Do-App/issues"
   },
-  "homepage": "https://github.com/rhamseyswork/To-Do-App",
+  "homepage": "https://rhamseyswork.github.io/To-Do-App/",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
